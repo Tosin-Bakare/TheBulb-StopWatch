@@ -1,0 +1,2 @@
+# TheBulb-StopWatch
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/029a4cd5f98d44cc904110ce06b7845b)](https://app.codacy.com/gh/Tosin-Bakare/TheBulb-StopWatch?utm_source=github.com&utm_medium=referral&utm_content=Tosin-Bakare/TheBulb-StopWatch&utm_campaign=Badge_Grade_Settings)
